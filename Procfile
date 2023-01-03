@@ -1,1 +1,1 @@
-web: sample-go-martini
+web: jemalloc.sh sample-go-martini
